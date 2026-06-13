@@ -206,7 +206,7 @@
 					<execution>
 						<id>linux</id>
 						<configuration>
-							<type>DEB</type>
+              <type>RPM</type>
 							<icon>src/main/resources/de/mossgrabers/convertwithmoss/images/AppIcon.png</icon>
 						</configuration>
 					</execution>
